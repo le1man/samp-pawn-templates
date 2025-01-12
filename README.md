@@ -27,10 +27,6 @@ ___
 | FileName		| Information	| Thread   |
 | ------------- |:-------------:| --------:|
 | [CopsAndTerrorists.pwn](https://github.com/le1man/samp-pawn-templates/blob/master/gamemodes/CopsAndTerrorists.pwn) | A small los santos town is under war between Cops and Local Terrorists, there are 3 flags to capture for both teams! | N/A |
-| Los Santos - Gangwars | 5 gangs fight over turfs in los santos teritory | http://forum.sa-mp.com/showthread.php?t=590991 |
-| RedRex Freeroam | Fun freeroam gamemode with sub modes like: Team Deathmatch, Deathmatch, Race, Parkour and lot more... | http://forum.sa-mp.com/showthread.php?t=582050 |
-| World War III | Team deathmatch set in desert of Las Venturas | http://forum.sa-mp.com/showthread.php?t=576348 |
-| World War IV | Modern Team deathmatch set in desert of Las Venturas | http://forum.sa-mp.com/showthread.php?t=597799 |
 ___
 
 ## [Includes](https://github.com/le1man/samp-pawn-templates/tree/master/pawno/include)
